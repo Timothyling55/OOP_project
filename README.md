@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=0xRw_5wvIho&feature=youtu.be
 This repository is a project made by OOP students of class Jan 2020 in UTP. It is a turn based rpg made using JavaFX.
 
 # Game Description
-Test your skills (and luck) in this turn based RPG of epic proportions!! Your party consists of Timothy the Cleric, who can heal 100 HP of his teammates, Wyxi the tank, who can draw the aggro of the enemy for 2 turns, Ji Jun the warrior, who can deal MASSIVE damage to the opponent with his skill, and Faliq the mage, who can reduce the enemy's strength for 2 turns! Follow their journey as they travel across the world (and space) to find and defeat the evil Emperor Mew. On their journey, they will face many foes, which are the minions of Emperor Mew. Will you be able to defeat him? Or will you fall just like so many others before? Try the game out now!!! 
+Test your skills (and luck) in this turn based RPG of epic proportions!! Your party consists of Timothy the Cleric, who can heal the wounds his teammates, Wyxi the tank, who can draw the aggro of the enemy for 2 turns, Ji Jun the warrior, who can deal MASSIVE damage to the opponent with his skill, and Faliq the mage, who can reduce the enemy's strength for 2 turns! Follow their journey as they travel across the world (and space) to find and defeat the evil Emperor Mewtwo. On their journey, they will face many foes, which are the minions of Emperor Mewtwo. Will you be able to defeat him? Or will you fall just like so many others before? Try the game out now!!! 
 
 # Controls
 Press up to use a regular attack<br/>
