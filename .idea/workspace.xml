@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07643fa0-c5eb-4011-8020-cb6f60e3a723" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YuxqHw5xr5bnwsclITDFB5jBeO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/core/assets/images" />
+      <recent name="$PROJECT_DIR$/src/core/assets/images/worlds" />
+      <recent name="$PROJECT_DIR$/src/core" />
+      <recent name="$PROJECT_DIR$/out/production/Game3/core" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Game3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07643fa0-c5eb-4011-8020-cb6f60e3a723" name="Default Changelist" comment="" />
+      <created>1560351016183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560351016183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LIMIT_HISTORY" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585475506997">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="423" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1585475506997" />
+    <state x="469" y="273" width="427" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585318259536">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="469" y="273" width="427" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1585318259536" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585318492431">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1585318492431" />
+    <state x="421" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585317361563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="421" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1585317361563" />
+    <state width="1324" height="201" key="GridCell.Tab.0.bottom" timestamp="1586055578589">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586055578589" />
+    <state width="1324" height="201" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1586010143594" />
+    <state width="1324" height="201" key="GridCell.Tab.0.center" timestamp="1586055578587">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586055578587" />
+    <state width="1324" height="201" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1586010143590" />
+    <state width="1324" height="201" key="GridCell.Tab.0.left" timestamp="1586055578586">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586055578586" />
+    <state width="1324" height="201" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1586010143588" />
+    <state width="1324" height="201" key="GridCell.Tab.0.right" timestamp="1586055578588">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586055578588" />
+    <state width="1324" height="201" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1586010143592" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1585466615274">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585466615274" />
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1585906561859">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585906561859" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
