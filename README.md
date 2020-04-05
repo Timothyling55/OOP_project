@@ -11,6 +11,13 @@ Test your skills (and luck) in this turn based RPG of epic proportions!! Your pa
 Press up to use a regular attack<br/>
 Press down to use your skill
 
+# Game screenshots
+![Screenshot1](screenshots/screenshot1.png)<br/>
+![Screenshot1](screenshots/screenshot2.png)<br/>
+![Screenshot1](screenshots/screenshot3.png)<br/>
+![Screenshot1](screenshots/screenshot4.png)<br/>
+![Screenshot1](screenshots/screenshot5.png)<br/>
+
 # A project by:
 Timothy Ling Jit Huong 17008605<br/>
 Muhd Irfan Daniel Wyxi Naabil 18000908
