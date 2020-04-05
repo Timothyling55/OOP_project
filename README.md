@@ -27,7 +27,7 @@ Muhd Irfan Daniel Wyxi Naabil 18000908
 Timothy Ling Jit Huong 17008605<br/>
 Muhd Irfan Daniel Wyxi Naabil 18000908
 
-# lead programmer
+# Lead Programmer
 Timothy Ling Jit Huong 17008605
 
 # Quality Control
