@@ -1,7 +1,7 @@
 # Game trailer
 https://www.youtube.com/watch?v=iGZo5lojqZc&feature=youtu.be
 
-# What this repository is about?
+# What is this repository is about?
 This repository is a project made by OOP students of class Jan 2020 in UTP. It is a turn based rpg made using JavaFX.
 
 # Game Description
